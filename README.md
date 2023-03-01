@@ -1,3 +1,3 @@
 # SecretNFT by Spaceboy
 
-This is a really simple project that shows the usage of Next.js with TypeScript, Polkadot.
+This is a really simple project that shows the usage of React/Next.js with TypeScript, Polkadot.
